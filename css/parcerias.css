@@ -1,0 +1,17 @@
+.linhaParc{
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+.blocoParc img{
+	width: 1200px;
+	height: 1200px;
+	border-radius: 30px;
+	padding-top: 200px;
+}
+.blocoParc h2{
+	padding-top: 200px;
+	text-align: center;
+}
+.blocoParc p{
+	text-align: center;
+}
